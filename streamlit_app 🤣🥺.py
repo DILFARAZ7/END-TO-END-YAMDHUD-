@@ -829,7 +829,7 @@ def stop_automation(user_id):
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <h1>🦂YAMDHUD 302</h1>
+        <h1>⚜️😈🥷YAMDHUD 302</h1>
         <p>AB CHODEGA YAMDHUD END TO END SE</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1024,4 +1024,4 @@ if not st.session_state.logged_in:
 else:
     main_app()
 
-st.markdown('<div class="footer">TATO KA BAAP🇮🇳 WP+916399047686</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">TATO KA BAAP😈🚩🇮🇳 WP+916399047686</div>', unsafe_allow_html=True)
