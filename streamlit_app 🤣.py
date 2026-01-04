@@ -884,7 +884,7 @@ def login_page():
 def main_app():
     st.markdown("""
     <div class="main-header">
-        <h1>🦂 YAMDHUD 302</h1>
+        <h1>⚜️🥷🗿 YAMDHUD 302</h1>
         <p>AB TU YAMDHUD KE END SE CHUD TMKC </p>
     </div>
     """, unsafe_allow_html=True)
@@ -1024,4 +1024,4 @@ if not st.session_state.logged_in:
 else:
     main_app()
 
-st.markdown('<div class="footer">TATO KA BAAP🇮🇳 WP+918115048433</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">TATO KA BAAP😈💥 WP+916399047686</div>', unsafe_allow_html=True)
